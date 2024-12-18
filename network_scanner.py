@@ -41,7 +41,7 @@ def scan(ip):
 
 
 
-scan("192.168.29.1/24")
+scan("ip address")
 
 ###we need to make sure the request is sent to all
 ##devices over the network so we use ethernet framework
